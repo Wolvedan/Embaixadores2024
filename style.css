@@ -19,6 +19,13 @@ body{
     background-image: url("img/maclaren senna.jfif");
     background-repeat: no-repeat;
     background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.principal__content {
+    text-align: center;
 }
 
 .container {
